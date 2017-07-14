@@ -1,0 +1,33 @@
+body{
+  background-color:lightgray;
+}
+
+p{
+  text-indent: 25px;
+}
+h1{
+  text-align: center;
+  padding:10px 0;
+}
+h2{
+  text-align: center;
+  padding:10px 0;
+}
+.wrapper{
+  width: 85%;
+  margin: 0 auto;
+}
+.article-section{
+  background-color: #88ffff;
+}
+
+.article-header{
+  background-color:#4dd0e1;
+}
+.title-header{
+  background-color: #009faf;
+}
+
+footer h4{
+  text-align: center;
+}
